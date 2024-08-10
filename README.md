@@ -126,3 +126,8 @@ if __name__ == "__main__":
     print(f"The optimal MTU size is: {optimal_mtu} bytes")  # Print the optimal MTU size.
 ```
 > **This will affect your in-game ping, so it's recommended to set your MTU to the optimal value**
+
+**Windows + R and type**
+```
+netsh interface ipv4 show subinterfaces
+```
