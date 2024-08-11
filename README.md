@@ -166,7 +166,7 @@ if __name__ == "__main__":
 ```
 > **This will affect your in-game ping, so it's recommended to set your MTU to the optimal value**
 
-**Terminal Commands (Windows + R, Type=cmd**
+**Terminal Commands (Windows + R, Type=cmd**)
 ```
 netsh interface ipv4 show subinterfaces
 ```
