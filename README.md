@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-However, this may not be suitable for everyone It was created for my personal use only Please use it with caution
+This may not be suitable for everyone It was created for my personal use only Please use it with caution
 </td>
 </tr>
 </table>
@@ -111,19 +111,3 @@ However, this may not be suitable for everyone It was created for my personal us
 
 > [!TIP]
 > If you encounter a low-quality texture issue, you can adjust the DFIntTextureQualityOverride value from 0 to 5 to resolve the problem
-
-
----
-
-<h1 align="center">
-  <br>
-  MTU Configuration
-  <br>
-</h1>
-
-> **This will affect your in-game ping, so it's recommended to set your MTU to the optimal value**
-
-**Terminal Commands (Windows + R, Type=cmd**)
-```
-netsh interface ipv4 show subinterfaces
-```
